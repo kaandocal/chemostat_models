@@ -1,0 +1,20 @@
+[deps]
+Catalyst = "479239e8-5488-4da2-87a7-35f2df7eef83"
+Chemostats = "0c42c343-380a-49b2-a381-bd06de99d09a"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+LogExpFunctions = "2ab3a3ac-af41-5b50-aa03-7779005ae688"
+ModelingToolkit = "961ee093-0014-501f-94e3-6117800e7a78"
+OrdinaryDiffEq = "1dea7af3-3e70-54e6-95c3-0bf5283fa5ed"
+SciMLBase = "0bca4576-84f4-4d90-8ffe-ffa030f20462"
+Setfield = "efcf1570-3423-57d1-acb7-fd33fddbac46"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+
+[compat]
+Catalyst = "15.0.11"
+Distributions = "0.25.122"
+LogExpFunctions = "0.3.29"
+ModelingToolkit = "9.84.0"
+OrdinaryDiffEq = "6.103.0"
+SciMLBase = "2.127.0"
+Setfield = "1.1.2"
+StaticArrays = "1.9.15"
